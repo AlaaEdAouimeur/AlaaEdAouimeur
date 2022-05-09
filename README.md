@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaEdAouimeur&show_icons=true&theme=dracula&line_height=27" alt="Mohammed-Benotmane's github stats"/></div>
 <!--
 **AlaaEdAouimeur/AlaaEdAouimeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
